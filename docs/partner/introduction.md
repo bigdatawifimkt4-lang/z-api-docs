@@ -76,5 +76,6 @@ Durante a adesão do plano a empresa integradora pode optar pela migração de t
 :::tip Como cobrar de seu cliente
 
 Recomendamos a nossos clientes a prática do modelo pré-pago em suas soluções pois não trabalhamos com pro rata.
+oiiiii
 
 :::
